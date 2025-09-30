@@ -6,22 +6,32 @@ body {
     background-color: black;
 }
 
+div {
+        border: 2px solid lightcyan;
+        padding: 5%;
+        margin: 20%;
+        margin-top: 5%;
+}
+
 h1 {
     color: darkcyan;
+    text-align: center;
 }
 
 h2 {
     color: lightblue;
+    text-align: center;
 }
 
 h3 {
     color: rgb(222, 240, 255);
+    text-align: center;
 }
 
 p {
     color: antiquewhite;
-    border: 2px;
     line-height: 1.2;
+    text-align: center;
 }
 
 .bold_text {
