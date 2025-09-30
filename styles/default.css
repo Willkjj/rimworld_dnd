@@ -1,6 +1,23 @@
+nav {
+    background-color: lightgray;
+    text-align: left;
+}
+
+nav a {
+    color: black;
+}
+
 /* p {
     text-align: center;
 } */
+
+.bold_text {
+    font-weight: bold;
+}
+
+.bold_text {
+    display: inline;
+}
 
 footer p {
     display:inline

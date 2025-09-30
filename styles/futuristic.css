@@ -3,9 +3,31 @@ body {
 }
 
 h1 {
-    color: limegreen;
+    color: darkcyan;
 }
+
+h2 {
+    color: lightblue;
+}
+
+h3 {
+    color: rgb(222, 240, 255);
+}
+
 p {
     color: antiquewhite;
     border: 2px;
+    line-height: 1.2;
+}
+
+.bold_text {
+    font-weight: bold;
+}
+
+ul p {
+    display: inline;
+}
+
+li {
+    color: antiquewhite;
 }
