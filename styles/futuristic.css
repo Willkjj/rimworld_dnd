@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: limegreen;
+}
+p {
+    color: antiquewhite;
+    border: 2px;
+}

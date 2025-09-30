@@ -1,0 +1,13 @@
+/* p {
+    text-align: center;
+} */
+
+footer p {
+    display:inline
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    display:inline
+}
