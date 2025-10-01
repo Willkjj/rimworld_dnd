@@ -2,7 +2,7 @@ body {
     background-color: antiquewhite;
 }
 
-body img {
+.title {
   display: block;
   margin: auto;
   width: 50%;
@@ -49,8 +49,35 @@ nav img {
     float: left;
 }
 
+.gallery {
+    padding: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid red
+}
+
+.gallery1 {
+    align-items: center;
+    display: inline;
+    width: 40%;
+    height: 40%;
+    padding-right: 5%;
+}
+
+.gallery2 {
+    display: inline;
+    width: 40%;
+    height: 40%;
+}
+
 p {
     text-align: center;
+}
+
+.intro {
+    border: 4px solid saddlebrown;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .bold_text {
@@ -63,10 +90,4 @@ p {
 
 footer p {
     text-align: center;
-}
-
-footer img {
-    height: 50px;
-    width: 50px;
-    display:inline
 }
