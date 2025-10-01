@@ -1,15 +1,57 @@
+body {
+    background-color: antiquewhite;
+}
+
+body img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
 nav {
-    background-color: lightgray;
+    background-color: antiquewhite;
     text-align: left;
+    border-bottom: 5px solid saddlebrown
+    
+}
+
+nav div {
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+nav div:hover {
+  background-color: saddlebrown;
 }
 
 nav a {
     color: black;
+    display: inline;
+    text-decoration: none;
+    font-size: larger;
 }
 
-/* p {
+nav img {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin: 0%;
+    padding-right: 5px;
+    float: left;
+}
+
+p {
     text-align: center;
-} */
+}
 
 .bold_text {
     font-weight: bold;
@@ -20,10 +62,10 @@ nav a {
 }
 
 footer p {
-    display:inline
+    text-align: center;
 }
 
-img {
+footer img {
     height: 50px;
     width: 50px;
     display:inline
