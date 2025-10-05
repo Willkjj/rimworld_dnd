@@ -149,6 +149,10 @@ p {
     display: inline;
 }
 
+.hidden {
+    display: none;
+}
+
 footer {
     margin: 5%;
 }
