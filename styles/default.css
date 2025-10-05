@@ -17,7 +17,15 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
+
 h3 {
+    text-align: center;
+}
+
+h4 {
     text-align: center;
 }
 
@@ -40,13 +48,13 @@ nav div {
 }
 
 .links {
-    display: inline;
     padding-left: 10px;
     padding-right: 10px;
-    display: flex;
+    display: block;
     height: 100%;
     a {
         height: 100%;
+        display: block;
         text-align: center;
     }
 }
@@ -150,6 +158,10 @@ footer {
     padding: 5%;
     padding-bottom: 0;
     justify-content: space-around;
+}
+
+#secret {
+    color: antiquewhite;
 }
 
 table {
