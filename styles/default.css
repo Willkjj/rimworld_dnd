@@ -150,7 +150,8 @@ p {
 }
 
 .hidden {
-    display: none;
+    font-size: 1px;
+    color: antiquewhite;
 }
 
 footer {
