@@ -158,6 +158,11 @@ footer {
     margin: 5%;
 }
 
+#xenos {
+    margin: 0 auto;
+    display: flex;
+}
+
 #sub_gallery {
     display: flex;
     padding: 5%;
@@ -190,4 +195,12 @@ th {
   text-align: left;
   background-color: saddlebrown;
   color: white;
+}
+
+ul {
+    margin: 0 10%;
+}
+
+li {
+
 }
