@@ -170,6 +170,11 @@ footer {
     justify-content: space-around;
 }
 
+#features {
+    margin: 0 0;
+    width: 100%;
+}
+
 #secret {
     color: antiquewhite;
 }
