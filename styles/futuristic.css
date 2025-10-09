@@ -99,16 +99,19 @@ body {
 h1 {
     color: darkcyan;
     text-align: center;
+    padding: 2%;
 }
 
 h2 {
     color: lightblue;
     text-align: center;
+    padding: 2%;
 }
 
 h3 {
     color: rgb(222, 240, 255);
     text-align: center;
+    padding: 2%;
 }
 
 p {
@@ -121,10 +124,15 @@ p {
     font-weight: bold;
 }
 
+ul {
+    padding: 2%;
+}
+
 ul p {
     display: inline;
 }
 
 li {
     color: antiquewhite;
+    
 }
